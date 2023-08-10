@@ -4,9 +4,5 @@
 		<members>Test_GitFotSFF__c.Phone__c</members>
 		<name>CustomField</name>
 	</types>
-	<types>
-		<members>Test_GitFotSFF__c</members>
-		<name>CustomObject</name>
-	</types>
 	<version>55.0</version>
 </Package>
